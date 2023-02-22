@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerardo</h1>
+<h1 align="center">Hi 👋, I'm Gerardo Macareno</h1>
 <h3 align="center">A passionate Computer engineering student from Seville, Spain.</h3>
 
 - 🔭 I'm currently studying on Cross-platform application development.
